@@ -1,0 +1,53 @@
+.titlu{
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+}
+.grouptitle{
+    border: 1px solid gray;
+    border-radius: 10px; 
+text-align: center;
+background-color: lightgray;
+padding:1px;
+width:fit-content;
+
+}
+.tank{
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 200px;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
+.tank:hover{
+    background-color: rgb(255, 255, 255);
+    opacity: 2;
+    cursor: help;
+}
+.tankgroup{
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+    background-size: 900px 450px;
+    opacity: 0.8;
+    text-align: center;}
+.tankgroupger{background-color:rgb(228, 177, 38);}
+.tankgroupsov{background-color:rgb(255, 0, 0);}
+.tankgroupbrit{background-color:rgb(212, 29, 75);}
+.tankgroupsua{ background-color:rgb(37, 98, 211);  }
+.steag{border: 1px solid gray;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    background-color: lightgray;}
+body{background-image: url(https://i.pinimg.com/564x/2f/23/38/2f23387ccb9d47009c112e69c7f55127.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:100%;}
