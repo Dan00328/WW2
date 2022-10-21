@@ -19,6 +19,7 @@ width:fit-content;
     border: 1px solid gray;
     border-radius: 10px;
     width: 200px;
+   
     display: inline-block;
     padding: 5px;
     margin: 10px;
@@ -39,7 +40,7 @@ width:fit-content;
     width:fit-content;
     
     text-align: center;}
-.tankgroupger{background-color:rgb(228, 177, 38);}
+.tankgroupger{background-color:rgb(226, 166, 0);}
 .tankgroupsov{background-color:rgb(255, 0, 0);}
 .tankgroupbrit{background-color:rgb(212, 29, 75);}
 .tankgroupsua{ background-color:rgb(37, 98, 211);  }
